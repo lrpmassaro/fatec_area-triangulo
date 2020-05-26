@@ -1,1 +1,1 @@
-Programa em java desenvolvido na graduação para calcular área de um triângulo.
+Sistema para calcular área de triângulo desenvolvido em java na graduação.
